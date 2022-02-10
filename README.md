@@ -1,2 +1,11 @@
-# MyProfile
-I am not gay
+# Lang 
+- Python 
+- Javascript
+
+# Daily activity
+- First
+  - Nothing
+- Second
+  - Nothing
+- Third
+  - Nothing

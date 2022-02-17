@@ -1,11 +1,11 @@
 # Lang 
-- Python 
-- Javascript
+```Bash
+> - Python 
+> - Javascript
+```
 
-# Daily activity
-- First
-  - Nothing
-- Second
-  - Nothing
-- Third
-  - Nothing
+# Link
+```Bash
+> https://discord.gg/hwBHke2h3F (Scorpio DC, Buy an DDoS API here)
+> https://github.com/iFanpSGTS
+```

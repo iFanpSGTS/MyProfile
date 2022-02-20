@@ -1,4 +1,7 @@
 <img src=https://avatars.githubusercontent.com/u/89406191?v4></img>
+img {
+  border-radius: 50%;
+}
 <br>
 Welcome To My Github
 <br>

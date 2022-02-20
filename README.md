@@ -1,11 +1,11 @@
-# Lang 
-```Bash
-> - Python 
-> - Javascript
-```
+<img src=https://avatars.githubusercontent.com/u/89406191?v=4></img>
+<br>
+Welcome To My Github
+<br>
 
-# Link
-```Bash
-> https://discord.gg/hwBHke2h3F (Scorpio DC, Buy an DDoS API here)
-> https://github.com/iFanpSGTS
-```
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iFanpSGTS&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=iFanpSGTS&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>

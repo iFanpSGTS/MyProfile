@@ -1,4 +1,4 @@
-<img src=https://discord.c99.nl/widget/theme-1/885671548814516225.png></img>
+<img src=https://discord.c99.nl/widget/theme-2/885671548814516225.png></img>
 <div align="center">
     <h1>iFanpS Github</h1>
 </div>
